@@ -1,3 +1,3 @@
 # timeSaver
 
-Algoritmo del multiplo común divisor
+Algoritmo del multiplo común divisor en C++
